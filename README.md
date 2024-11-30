@@ -1,6 +1,13 @@
 # Java-basic-Bit2Byte
 
-https://www.mycompiler.io/new/java
+Online Compiler: https://www.mycompiler.io/new/java <br>
+Javac: https://www.oracle.com/java/technologies/downloads/?er=221886#jdk23-windows <br> 
+VS Code: https://code.visualstudio.com/ <br> 
+
+VS code Extension: 
+- Extension Pack for JAVA
+- Language Support for JAVA
+- Code Runner 
 
 ```java
 class Main {
